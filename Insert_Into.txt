@@ -1,0 +1,4 @@
+INSERT INTO pessoas
+(id, nome, nascimento, sexo, peso, altura, nacionalidade)
+VALUES
+('1', 'Fulano', '1900-01-01', 'M', '60', '1.50', 'Brasil');
