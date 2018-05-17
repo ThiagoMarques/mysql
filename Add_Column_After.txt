@@ -1,0 +1,2 @@
+ALTER TABLE nometabela
+ADD COLUMN nomecoluna tipo AFTER nomecolunadepois;
