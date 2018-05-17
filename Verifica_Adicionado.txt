@@ -1,0 +1,2 @@
+Comando para verificar se foi adicionado:
+SELECT * FROM `pessoas`;
